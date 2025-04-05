@@ -7,3 +7,6 @@ A calculator that calculates simple interest given principal, annual rate of int
    r, annual rate of interest
 <br>**Output:** <br>
    simple interest = p*t*r
+ ---
+
+© 2022 XYZ, Inc.
